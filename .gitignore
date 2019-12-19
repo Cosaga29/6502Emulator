@@ -1,0 +1,8 @@
+outside/
+Release/
+.vs/
+res/
+
+*.sln
+*.vcxproj
+*.filders
