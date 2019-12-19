@@ -5,4 +5,5 @@ res/
 
 *.sln
 *.vcxproj
-*.filders
+*.filters
+*.user
